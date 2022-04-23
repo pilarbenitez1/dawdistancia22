@@ -1,4 +1,6 @@
 <?php
+echo "tarea dawdistancia22 actualizada".
+echo "<br>";
 /**
 * Función que nos permite averiguar la suma de
 * dos parámetros introducidos
